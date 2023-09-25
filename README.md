@@ -1,5 +1,6 @@
 ### Hi there, my name is Sergei 👋
 I'm C++ developer and audio schematics enthusiast.
+
 Yandex.Praktikum "C++ Developer" program graduate, 10 years experience as aviation engineer.
 <!--
 **sssmorodin/sssmorodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
