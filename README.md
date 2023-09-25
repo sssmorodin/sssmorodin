@@ -1,5 +1,5 @@
 ### Hi there, my name is Sergei 👋
-I'm C++ developer and audio schematics enthusiast.
+I'm C/C++ developer and audio schematics enthusiast.
 
 Yandex.Praktikum "C++ Developer" program graduate, 10 years experience as aviation engineer.
 <!--
